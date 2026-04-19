@@ -37,6 +37,4 @@ The dataset contains passenger details such as:
 ## 🚀 Conclusion  
 This analysis revisits one of the most famous datasets in data science, emphasizing the importance of combining automated tools with human-led exploration. It demonstrates best practices in data analysis: profiling, cleaning, visualization, and interpretation before moving toward machine learning.  
 
----
 
-Would you like me to also add a **“Future Work” section** (e.g., predictive modeling with logistic regression or random forest) so your README shows clear next steps for anyone exploring your repo?
